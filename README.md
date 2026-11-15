@@ -10,6 +10,6 @@ This project is a starting point for a Flutter application.
 ## App Screenshots
 
 <p align="center">
-  <img src="./Screens/Login_screen.PNG" width="30%" />
+  <img src="./Screens/login_screen.PNG" width="30%" />
   <img src="./Screens/Info_screen.PNG" width="30%" />
 </p>
